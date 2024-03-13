@@ -1,6 +1,6 @@
 # NFT Analytics
 
-The scripts in this repo were written in Python to capture the following data points using [QuickNode's endpoin](https://dashboard.quicknode.com/endpoints/new/ETH/mainnet) and [QuickNode's Marketplace Blockspan add-on](https://marketplace.quicknode.com/add-on/nft-api-with-cached-metadata):
+The scripts in this repo were written in Python to capture the following data points using [QuickNode's endpoint](https://dashboard.quicknode.com/endpoints/new/ETH/mainnet) and [QuickNode's Marketplace Blockspan add-on](https://marketplace.quicknode.com/add-on/nft-api-with-cached-metadata):
 
 - NFT floor prices
 - NFT top collections
